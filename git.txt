@@ -29,6 +29,16 @@ git commit
 git diff 
 
 
+//create designer branch and switch into that 
+git checkout -b  designer
+
+//list all branch  
+git branch
+
+//switch to existing branch 
+git checkout master 
+
+
 
 
 
