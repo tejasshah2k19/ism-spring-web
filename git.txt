@@ -1,0 +1,53 @@
+git init --> empty local repo 
+
+1
+	x -> push remote 
+	1.java 
+	11.java  
+	web.xml
+	commit- 1.java web.xml  
+	push local -> remote [ 1 new add ,1 update ]	
+	changes local
+	
+2
+ 	remote --> pull --> local repo 
+	1.java
+	pull 
+	commit 
+	push 
+	changes 
+	commit 
+	push 
+ 
+-----------------------------------------------
+
+git status 
+git init 
+git add [track]
+git remote add [url] 
+git commit 
+git diff 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
